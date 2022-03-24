@@ -19,3 +19,9 @@ npx hardhat help
 ```
 https://rinkeby.etherscan.io/address/0x9EB82596653E275F0d583d3cA49C70ff3f04b5Ac#code
 ```
+
+## Run on server
+
+```
+http://localhost:3300
+```
