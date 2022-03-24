@@ -21,7 +21,11 @@ https://rinkeby.etherscan.io/address/0x9EB82596653E275F0d583d3cA49C70ff3f04b5Ac#
 ```
 
 ## Run on server
+run the command in the terminal
+* node server.js
 
 ```
 http://localhost:3300
 ```
+
+
